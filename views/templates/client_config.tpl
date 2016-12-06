@@ -79,6 +79,7 @@ require.config({
         ],
         'ckeditor'          : 'lib/ckeditor/ckeditor',
         'interact'          : 'lib/interact',
+        'mathquill'         : 'lib/mathquill/mathquill',
         'd3'                : 'lib/d3js/d3.min',
         'c3'                : 'lib/c3js/c3.min',
 
